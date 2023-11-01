@@ -1,5 +1,6 @@
 public class Addition {
 
+    //this mehtod adds two values
     public static int sum(int a, int b){
         return a+b;
     }
