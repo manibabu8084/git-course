@@ -5,6 +5,7 @@ public class Addition {
         return a+b;
     }
 
+    //main method
     public static void main (String[] args){
 
         System.out.println(sum(1 ,4));
