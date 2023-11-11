@@ -8,7 +8,7 @@ public class Addition {
     //main method
     public static void main (String[] args){
 
-        System.out.println(sum(1 ,4));
+        System.out.println(sum(1 , 4));
     }
     
 }
